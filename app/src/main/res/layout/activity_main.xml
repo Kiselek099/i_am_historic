@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#dbeceb">
+<TextView
+    android:id="@+id/mainTV"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="60dp"
+    android:text="@string/tittle"
+    android:textSize="34sp"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:background="@color/title">
+</TextView>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/mainBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/start"
+        android:layout_marginTop="150dp"
+        android:textSize="40sp"
+        android:background="@color/white">
+    </androidx.appcompat.widget.AppCompatButton>
+
+
+
+
+</LinearLayout>

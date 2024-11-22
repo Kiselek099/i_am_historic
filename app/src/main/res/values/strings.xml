@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">i_am_historic</string>
+    <string name="title">Выберите ваш цвет</string>
+    <string name="red">КРАСНЫЙ</string>
+    <string name="green">ЗЕЛЕНЫЙ</string>
+    <string name="yelow">ЖЕЛТЫЙ</string>
+    <string name="pink">РОЗОВЫЙ</string>
+    <string name="button_text">Получить выбранный цвет</string>
+    <string name="start">Начать</string>
+    <string name="tittle">Я историк</string>
+    <string name="quest1_1">В 1945 году</string>
+    <string name="quest1_2">В 1941 году</string>
+    <string name="quest1_3">В 2001 году</string>
+    <string name="ask_1">Вопрос№1. В каком году началась Великая отечественная война?</string>
+    <string name="quest2_1">1703 год</string>
+    <string name="quest2_2">1712 год</string>
+    <string name="quest2_3">1698 год</string>
+    <string name="ask_2">Вопрос №2 Какой год основания Санкт-Петербурга?</string>
+    <string name="ask_3">Вопрос№3. Сколько революций было в России?</string>
+    <string name="quest3_1">Одна</string>
+    <string name="quest3_2">Две</string>
+    <string name="quest3_3">Три</string>
+    <string name="ask_4">Вопрос№4. Кем приходился Владимир Красное Солнышко княгине Ольге??</string>
+    <string name="quest4_1">Отцом</string>
+    <string name="quest4_2">Братом</string>
+    <string name="quest4_3">Внуком</string>
+    <string name="ask_5">Вопрос№5. В честь какого события построен Собор Василия Блаженного?</string>
+    <string name="quest5_1">Невская битва</string>
+    <string name="quest5_2">Освобождение от татаро-монгольского ига</string>
+    <string name="quest5_3">Взятие Казани</string>
+</resources>
